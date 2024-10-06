@@ -161,7 +161,7 @@ export const authOptions: NextAuthOptions \= {
     }  
 }
 
-app/auth/AuthProvider.ts
+app/auth/AuthProvider.tsx
 
 "use client";  
 import { SessionProvider } from "next-auth/react";  
